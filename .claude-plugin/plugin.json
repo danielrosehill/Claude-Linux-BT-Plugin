@@ -1,0 +1,12 @@
+{
+  "name": "linux-bt",
+  "version": "0.1.0",
+  "description": "Bluetooth on Linux from the command line, because the desktop pairing dialogs are unreliable. Diagnose the adapter, scan, pair + trust + connect in one non-interactive bluetoothctl session, manage known devices (connect, disconnect, forget, battery) and reset the stack. BlueZ 5.x; works the same under KDE, GNOME or no desktop.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Linux-BT-Plugin",
+  "license": "MIT",
+  "keywords": ["bluetooth", "bluez", "bluetoothctl", "linux", "pairing", "ble"]
+}
